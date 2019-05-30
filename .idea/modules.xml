@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/autotest_interface_36.iml" filepath="$PROJECT_DIR$/.idea/autotest_interface_36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../autotest_platform/.idea/autotest_platform.iml" filepath="$PROJECT_DIR$/../autotest_platform/.idea/autotest_platform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mail_to_jianshu/.idea/mail_to_jianshu.iml" filepath="$PROJECT_DIR$/../mail_to_jianshu/.idea/mail_to_jianshu.iml" />
+    </modules>
+  </component>
+</project>
